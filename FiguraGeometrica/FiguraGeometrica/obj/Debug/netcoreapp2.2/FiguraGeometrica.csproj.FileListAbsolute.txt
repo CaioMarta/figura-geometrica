@@ -1,0 +1,11 @@
+C:\Users\20210125\source\repos\FiguraGeometrica\FiguraGeometrica\bin\Debug\netcoreapp2.2\FiguraGeometrica.deps.json
+C:\Users\20210125\source\repos\FiguraGeometrica\FiguraGeometrica\bin\Debug\netcoreapp2.2\FiguraGeometrica.runtimeconfig.json
+C:\Users\20210125\source\repos\FiguraGeometrica\FiguraGeometrica\bin\Debug\netcoreapp2.2\FiguraGeometrica.runtimeconfig.dev.json
+C:\Users\20210125\source\repos\FiguraGeometrica\FiguraGeometrica\bin\Debug\netcoreapp2.2\FiguraGeometrica.dll
+C:\Users\20210125\source\repos\FiguraGeometrica\FiguraGeometrica\bin\Debug\netcoreapp2.2\FiguraGeometrica.pdb
+C:\Users\20210125\source\repos\FiguraGeometrica\FiguraGeometrica\obj\Debug\netcoreapp2.2\FiguraGeometrica.csprojAssemblyReference.cache
+C:\Users\20210125\source\repos\FiguraGeometrica\FiguraGeometrica\obj\Debug\netcoreapp2.2\FiguraGeometrica.csproj.CoreCompileInputs.cache
+C:\Users\20210125\source\repos\FiguraGeometrica\FiguraGeometrica\obj\Debug\netcoreapp2.2\FiguraGeometrica.AssemblyInfoInputs.cache
+C:\Users\20210125\source\repos\FiguraGeometrica\FiguraGeometrica\obj\Debug\netcoreapp2.2\FiguraGeometrica.AssemblyInfo.cs
+C:\Users\20210125\source\repos\FiguraGeometrica\FiguraGeometrica\obj\Debug\netcoreapp2.2\FiguraGeometrica.dll
+C:\Users\20210125\source\repos\FiguraGeometrica\FiguraGeometrica\obj\Debug\netcoreapp2.2\FiguraGeometrica.pdb
